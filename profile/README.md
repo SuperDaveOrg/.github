@@ -14,6 +14,7 @@ Most of what's here shares one bias: **your data stays on your machine.** No acc
 | **[Nexpill](https://nexpill.superdavelab.com)** | Local-first medication tracker with precise timing logic, taper support, and fully offline persistence. | Flutter |
 | **[SiteTrackr](https://github.com/SuperDaveOrg/SiteTrackr)** | Open-source field-operations maintenance platform: dynamic ticket templates, site metadata, visit logging, attachments, role-based permissions. | Fastify · React PWA |
 | **[LogSmith](https://github.com/SuperDaveOrg/LogSmith)** | Fast local log analyzer — summarizes delimited logs, groups recurring error patterns, filters by level and time window. | C# · .NET |
+| **[fingerdrag](https://github.com/SuperDaveLab/fingerdrag)** | macOS-style three-finger drag for Linux touchpads. Rebuilds your distro's own libinput with the gesture switched on, for desktops that offer no setting for it — KDE Plasma, Cinnamon, and other X11 desktops. Keeps the stock packages for rollback and warns when a system upgrade undoes it. Debian, Ubuntu, Mint. | Bash · C |
 
 ## Elsewhere
 
